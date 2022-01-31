@@ -1,3 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine();
+﻿string In_a()
+{
+    Console.WriteLine("Введите а");
+    return Console.ReadLine();
+}
