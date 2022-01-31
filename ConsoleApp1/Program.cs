@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿public string EntrB()
 {
     Console.WriteLine("Введите b");
@@ -18,3 +19,9 @@
     return Console.ReadLine(int.Parse(In_a()) + int.Parse(EntrB()));
 }
 >>>>>>> sum
+=======
+﻿public string sub()
+{
+    return Console.ReadLine(int.Parse(In_a()) + int.Parse(EntrB()));
+}
+>>>>>>> sub
