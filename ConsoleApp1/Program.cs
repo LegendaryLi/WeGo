@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿public string EntrB()
 {
     Console.WriteLine("Введите b");
@@ -32,3 +33,9 @@
     return Console.ReadLine(int.Parse(In_a()) * int.Parse(EntrB()));
 }
 >>>>>>> mult
+=======
+﻿public string div()
+{
+    return Console.ReadLine(int.Parse(In_a()) / int.Parse(EntrB()));
+}
+>>>>>>> div
